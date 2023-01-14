@@ -30,7 +30,7 @@ inbounds:
     wsSettings:
       path: /uuid-vm
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
